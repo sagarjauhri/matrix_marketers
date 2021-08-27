@@ -1,0 +1,88 @@
+{
+  "status": "success",
+  "layout": [
+    {
+      "id": 1,
+      "system_resource_id": "1",
+      "system_class_id": "0",
+      "system_class_name": "",
+      "sections": [
+        {
+          "id": 1,
+          "layout_id": 1,
+          "section_name": "General",
+          "section_sort_order": 2,
+          "section_fields": "18,20,21,10,1",
+          "show_section_title": "no",
+          "section_fields_details": [
+            {
+              "id": 18,
+              "name": "beds",
+              "display_name": "Beds"
+            },
+            {
+              "id": 20,
+              "name": "address",
+              "display_name": "Address"
+            },
+            {
+              "id": 21,
+              "name": "baths",
+              "display_name": "Baths"
+            },
+            {
+              "id": 10,
+              "name": "list_price",
+              "display_name": "List Price"
+            },
+            {
+              "id": 1,
+              "name": "mls_num",
+              "display_name": "MLS Number"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "layout_id": 1,
+          "section_name": "Location",
+          "section_sort_order": 3,
+          "section_fields": "44,16,30",
+          "show_section_title": "no",
+          "section_fields_details": [
+            {
+              "id": 44,
+              "name": "city",
+              "display_name": "City"
+            },
+            {
+              "id": 16,
+              "name": "elementary_school",
+              "display_name": "ElementarySchool"
+            },
+            {
+              "id": 30,
+              "name": "high_school",
+              "display_name": "HighSchool"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "layout_id": 1,
+          "section_name": "Description",
+          "section_sort_order": 4,
+          "section_fields": "28",
+          "show_section_title": "no",
+          "section_fields_details": [
+            {
+              "id": 28,
+              "name": "description",
+              "display_name": "Description"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
